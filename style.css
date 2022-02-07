@@ -1,0 +1,37 @@
+.header {
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: lightgray;
+}
+section {
+	width: 20%;
+	height: 40%;
+	margin-right:auto;
+    margin-left:auto;
+	box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+table {
+	width: 100%;
+	height: 72%;
+}
+
+input[type="text"] {
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	text-align: right;
+}
+.clear {
+	width: 100%;
+}
+input[type="button"] {
+	background-color: cyan;
+	width: 100%;
+	height: 100%;
+}
+
+
+
+
+
